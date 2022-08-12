@@ -1,5 +1,5 @@
 package com.example.uasakb10119293.adapter;
-
+//10119293, Dwi Irfansyah, IF-7, 10119293
 import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;

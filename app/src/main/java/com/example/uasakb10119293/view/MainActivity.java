@@ -1,5 +1,5 @@
 package com.example.uasakb10119293.view;
-
+//10119293, Dwi Irfansyah, IF-7, 10119293
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;

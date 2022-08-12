@@ -1,5 +1,5 @@
 package com.example.uasakb10119293.model;
-
+//10119293, Dwi Irfansyah, IF-7, 10119293
 import java.io.Serializable;
 
 public class Note implements Serializable {
